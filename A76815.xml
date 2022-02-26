@@ -1,0 +1,232 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mr Humphrey's Second vindication of a disciplinary anti-Erastian, orthodox, free-admission to the Lords-Supper, taken into consideration, in a letter occasionally written / by Mr Blake pastor of Tamworth, and by a friend of truth made publick.</title>
+            <author>Blake, Thomas, 1597?-1657.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76815</idno>
+            <idno type="STC">Wing B3147</idno>
+            <idno type="STC">Thomason E889_4</idno>
+            <idno type="STC">ESTC R206499</idno>
+            <idno type="EEBO-CITATION">99865645</idno>
+            <idno type="PROQUEST">99865645</idno>
+            <idno type="VID">117893</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76815)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117893)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 134:E889[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mr Humphrey's Second vindication of a disciplinary anti-Erastian, orthodox, free-admission to the Lords-Supper, taken into consideration, in a letter occasionally written / by Mr Blake pastor of Tamworth, and by a friend of truth made publick.</title>
+                  <author>Blake, Thomas, 1597?-1657.</author>
+                  <author>S. B.</author>
+               </titleStmt>
+               <extent>[4], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by A.M. for Abel Roper at the signe of the Sunne in Fleetstreet, near St Dunstans-Church,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>MDCLVI. [1656]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"To the reader" signed: S.B.</note>
+                  <note>Annotation on Thomason copy: "September 30th.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Humfrey, John, 1621-1719. --  Second vindication of a disciplinary, anti-Erastian, orthodox free-admission to the Lords-Supper.</term>
+               <term>Lord's Supper --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117893:1" rendition="simple:additions"/>
+            <p>M<hi rend="sup">r</hi> 
+               <hi>H<g ref="char:V">Ʋ</g>MPHREYS</hi> SECOND VINDICATION OF A Diſciplinary Anti-Eraſtian, Orthodox, Free-admiſſion TO THE Lords-Supper, Taken into Conſideration, in a Letter occaſionally written By M<hi rend="sup">r</hi> 
+               <hi>Blake</hi> Paſtor of <hi>Tamworth,</hi> AND By a Friend of Truth made publick.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>A. M.</hi> for <hi>Abel Roper</hi> at the Signe of the <hi>Sunne</hi> in <hi>Fleetſtreet,</hi> near S<hi rend="sup">t</hi> 
+               <hi>Dunſtans</hi>-Church, MDCLVI.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:117893:2"/>
+            <pb facs="tcp:117893:2" rendition="simple:additions"/>
+            <head>TO THE READER.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He enſuing Letter, with the An<g ref="char:EOLhyphen"/>ſwer falling into my hands, and finding M<hi rend="sup">r</hi> 
+               <hi>Blake</hi> (to whom I owe much) ſo much concerned in them, and the truth, to which all owe moſt, moſt of all inte<g ref="char:EOLhyphen"/>reſſed; I have taken the boldneſs to make them publick. M<hi rend="sup">r</hi> 
+               <hi>Humphreys</hi> ſeems much to value his judgement, (as indeed it is to be valued) and I believe that thou wilt ſee that it is to be equally valued, where he diſſents from him, as, where he agrees with him. It is the thoughts of ſome, that his Arguments have not been ſatisfyingly anſwered, inſo<g ref="char:EOLhyphen"/>much that there is no ſmall triumph with many, who are reſolvedly on his party. If now it ſhall appear by that which follows (referring to that which in a lar<g ref="char:EOLhyphen"/>ger Treatiſe hath been already publiſhed) that, though it ſhould be granted, that he had ſpoke much to his adverſary, with whom he is eſpecially engaged; yet,
+<pb facs="tcp:117893:3"/>the cauſe is not by him notwithſtanding gained; the Authours pains may well be deſervedly acceptable, to all thoſe that with him are diſſatisfied with promiſ<g ref="char:EOLhyphen"/>cuous Adminiſtrations, however there be not that full and deſired agreement in the way in which they oppoſe it. If the cauſe be propugned (as by our Au<g ref="char:EOLhyphen"/>thour it is) let not any be troubled that it is not done with his weapon; Sure I am, that not a few truly pious and judicious, profeſs already much ſatisfacti<g ref="char:EOLhyphen"/>on. In concluſion it is left to thee <hi>aequâ lance</hi> to de<g ref="char:EOLhyphen"/>termine, by which party Truth is moſt advanced, and which way fairlieſt tends to ſet up the Ordinance in it's due honour, with the peace and comfort both of the Diſpenſer and Receiver, which was the whole deſign of the Authour, as it is the hearty deſire of</p>
+            <closer>
+               <signed>Thy Servant in any Chriſtian office
+<hi>S. E.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:117893:3"/>
+            <head>
+               <hi>For the Reverend M<hi rend="sup">r</hi>
+               </hi> Thomas Blake <hi>Miniſter of</hi> Tamworth.</head>
+            <opener>
+               <salute>REVEREND SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">H</seg>Aving lately Printed a little Piece of Mr. <hi>Humfrey</hi>'s, being a ſecond Vindi<g ref="char:EOLhyphen"/>cation of a free Admiſsion to the Lords Supper, and knowing how much he values your Judgement, both by the frequent mention he makes of you in his Book, and alſo by what I have formerly heard him diſcourſe of you, I have taken the boldneſs to preſent you with one of them, de<g ref="char:EOLhyphen"/>ſiring one line from you, which may ſignifie you have received it, and how you approve of his endeavour in it, I am ſure I ſhall gratifie the Authour by giving him ſome account of your thoughts, and you will in gi<g ref="char:EOLhyphen"/>ving me the opportunity much oblige,</p>
+            <closer>
+               <signed>Your loving Friend and Servant
+<hi>EDWARD BLACKMORE.</hi>
+               </signed>
+            </closer>
+            <postscript>
+               <p>Sir, <hi>What Errata you meet with in the Book, you muſt aſcribe to the Authours abſence.</hi>
+               </p>
+            </postscript>
+         </div>
+         <div type="commentary">
+            <pb n="2" facs="tcp:117893:4"/>
+            <head>
+               <hi>Theſe for</hi> M<hi rend="sup">r</hi> Edward Blackmore <hi>Stationer at the Angel in</hi> Pauls <hi>Church-yard.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Have received that Book of Learned M<hi rend="sup">r</hi> 
+               <hi>Humphreys,</hi> which you were pleaſed to ſend me by our Carrier; for which I give you hearty thanks; I have taken the firſt occa<g ref="char:EOLhyphen"/>ſion that my buſineſſe would ſuffer, to read it over; but as for my Judgement, which you deſire of the Work, it is not of that worth as to be regarded; being made publique, it will undergo the Cenſure of more piercing eyes; To me, I con<g ref="char:EOLhyphen"/>feſſe, there is that to be found in his Writings, which is too much wanting in the Works of many, perſpicuity of ſtile, perſpicacity of Judgment, and much Candor in expreſſions. If all Controverſies were carried on in this way, Diſputes might be brought into a more narrow compaſſe, but that is not to be expected; Some, it is to be feared, do not intend it, others may endeavour <hi>pro modulo ſuo,</hi> that which they cannot reach. Many Scriptures, (if I can judge any thing) as well in the Book, as the Poſtſcript, are both <hi>obiter,</hi> and <hi>ex in<g ref="char:EOLhyphen"/>duſtriâ</hi> much cleared, which I have ever thought to have been impertinently brought into this Diſpute; yet though I muſt joyne with him (the force of Truth evincing it) as to the acknowledgment of the invalidity of ſome Arguments, and impertinency of ſome Scriptures, alledged againſt his Te<g ref="char:EOLhyphen"/>nent; yet I cannot do ſo, in his concluſion; But ſtill am where I was, and muſt profeſſe my diſſatisfaction; Some things in reference to my ſelfe, I ſhall take the boldneſſe to animadvert, and afterwards happily offer ſomewhat more, very briefly as I ſhall finde occaſion.</p>
+            <p>
+               <hi>Pag.</hi> 31. Taking notice of the Title of my Treatiſe of the Sacraments, <hi>viz.</hi> [The Covenant ſealed] he ſaith it is in reference to my former [The Covenant opened] But if that Treatiſe did open the Covenant, and this Seale it, then
+<pb n="3" facs="tcp:117893:4"/>this doth again conceale, obſure, and darken it: For that is the uſe of ſealing as it oppoſed to opening, as I have ſhewed, Treat. of the Sacram. <hi>Pag.</hi> 327. I had thought that all would have known, that this Title [The Covenant ſealed] had reference to that which I expreſt in my former Title-Page [The Cove<g ref="char:EOLhyphen"/>nant of God entred with man-kind] There I hold forth Gods entrance into Covenant, and here his ſealing or Ratification of it.</p>
+            <p>
+               <hi>Pag.</hi> 32. He quotes ſomewhat out of my Treatiſe of the Sacraments, where I ſet down the <hi>minimum quod ſic</hi> in know<g ref="char:EOLhyphen"/>ledge, which in my thoughts may give admittance to the Lords Supper; But that which he quotes is cloathed in his own, and not my language: and when I goe as low as I durſt, and lower then perhaps ſome will allow, any that ſtrictly compares my words with his Quotation, may ſee that he makes me to go yet lower then my ſelfe.</p>
+            <p>
+               <hi>Pag.</hi> 59. <hi>Ad finem.</hi> He hath theſe words [<hi>The Sacrament is appointed for the Church, the Church conſiſts of unregenerate, as well as others, which is a firme and ſolid probation, and is in<g ref="char:EOLhyphen"/>deed that ſtrong bottome</hi> (<hi>as</hi> M<hi rend="sup">r</hi> Bl. <hi>acknowledges it, Cov. Seal.</hi> p. 247. <hi>whatſoever others have ſaid thereof</hi>) <hi>on which not onely my Book, but both his too, ſo far as concernes this matter are founded</hi>] 1. Theſe two aſſertions (whether we take them joyntly or ſeverally) are no bottome on which an adminiſtra<g ref="char:EOLhyphen"/>tion unto all Church Members, promiſcuouſly may be groun<g ref="char:EOLhyphen"/>ded; either according to M<hi rend="sup">r</hi> 
+               <hi>H.</hi> or my opinion. He puts in his limits to exclude ſome Church Members, I exclude the ſame, and put in limits to exclude others, though not from the right, yet from the uſe. 2. I have nothing at all to ſay in that place, to either of thoſe Aſſertions, which he ſtyles a ſtrong bottome, but onely to the words of his Text [<hi>Mar.</hi> 14.33.] on which he built his whole diſcourſe. 3. The words in my Book indeed are [ſtrongly bottomed] but I intended, and ſo it was in my Copy [ſtrangely bottomed] and accor<g ref="char:EOLhyphen"/>dingly in the Errata it is corrected, which eaſily alſo might be gathered from my words immediatly following, where I ſet out not the ſtrength, but the weakneſſe of that bottome; which is to be wondered, that M<hi rend="sup">r</hi> 
+               <hi>H.</hi> ſaw not, ſeeing in his
+<pb n="4" facs="tcp:117893:5"/>Poſtſcript <hi>Sect.</hi> 1. he goes about a vindication of it from the ſame objection that I there make againſt it. I there alſo ſay, that I had in my thoughts to have given a brief anſwer to his Scriptures and Reaſons, and can he think that I would ſay, that I intended a refutation, and with the ſame breath affirme that it was built upon a ſtrong bottome.</p>
+            <p>
+               <hi>Pag.</hi> 109. He aſſumes to himſelf <hi>an Anti-Eraſtian, Ortho<g ref="char:EOLhyphen"/>dox, free admiſſion to the Lords Table,</hi> when that is the thing under diſpute, whether ſuch admiſſion be Orthodox or He<g ref="char:EOLhyphen"/>terodox; And in the ſame place charges upon me, <hi>a kinde of Eraſtian indiſciplinary ſuſpenſion.</hi> Here I would demand, 1. Whether all be Eraſtians, as to oppoſition of Church Diſ<g ref="char:EOLhyphen"/>cipline, that aſſert ſuſpenſion from the Lords Supper, (if you will ſo call it) by a ſole miniſteriall power, taking in what aſſiſtance they can for the better diſcharge of their duty: Were the Fathers and School-men, univerſally Eraſtian? and in their Times engaged againſt all Eccleſiaſticall Diſcipline? Was the Church of <hi>England</hi> alſo in like ſort Eraſtian from the firſt Reformation? We have been highly charged for not reforming Diſcipline, but I never heard, that we were charged for aboliſhing of all Diſcipline; They were all (ſo far as I can poſſibly underſtand) of the ſame opinion that I have declared in this thing; And when they were all free from Eraſtianiſme, how can I in following their ſteps, ſtand charged as an Eraſti<g ref="char:EOLhyphen"/>an; or any kinde of an Eraſtian? How is that withholding of the Sacrament, which I aſſert charged as indiſciplinary? when I profeſſedly affirmed that all that I ſay muſt not any way be underſtood, as prejudiciall to Church Government, or the power of Church Cenſures, giving in my Reaſons, with<g ref="char:EOLhyphen"/>all aſſerting Church Government (as I was able) with Argu<g ref="char:EOLhyphen"/>ments and anſwer of Objections; though M<hi rend="sup">r</hi> 
+               <hi>H.</hi> plainly hints in the ſame place, that he thinks that he hath done it ſomewhat better: But I am well content that it be done, who<g ref="char:EOLhyphen"/>ſoever it is that hath done it. 2. That that which I have ſaid, is not to make to the prejudice of the Office of ruling Elders, concerning whom there hath been in the Church ſo hot diſ<g ref="char:EOLhyphen"/>putes, and after ſome enquiry into mens different thoughts a<g ref="char:EOLhyphen"/>bout them, and the different bottomes on which thoſe that
+<pb n="5" facs="tcp:117893:5" rendition="simple:additions"/>do ſtand for them, ſet them; I conclude that on what bot<g ref="char:EOLhyphen"/>tome ſoever they ſtand, that which I have ſaid can nothing prejudice them. Laſtly, That nothing that I have ſaid, may exempt admiſſion to, or excluſion from the Sacrament of the Lords Supper, in particular, from cognizance of Church power, nor take it out of the verge of their Cenſures: which may be further ſeen in my Treat. of the Sacram. <hi>p.</hi> 265. to <hi>p.</hi> 272, I do not indeed make it any part of Diſcipline, yet am carefull to keep it within the reach of it, whereas [indiſ<g ref="char:EOLhyphen"/>ciplinary] as I ſuppoſe is that which is without Diſcipline; not that which is not Diſcipline. M<hi rend="sup">r</hi> 
+               <hi>H.</hi> preaching, praying, faſting, Sabboth Obſervations, publique Collections, private Admonitions, are not Diſcipline, yet I ſuppoſe that he will not ſay that they may be fairely called indiſciplinary. 3. Was <hi>Eraſtus</hi> ever ſo high againſt promiſcuous admiſſion to the Sacrament, that he that oppoſes it, and would have Miniſters withold it from ſome, that are neither Infant, Ideot or diſtra<g ref="char:EOLhyphen"/>cted; <hi>eo nomine</hi> ſuffer in his Name as an Eraſtian, or as any kind of Eraſtian. I have not <hi>Eraſtus,</hi> and when I deſired the Book, I could not buy it with money, and it is now ſeve<g ref="char:EOLhyphen"/>rall years ſince I read it; But I ſhall appeale to any indifferent Arbitrator to determine, whether M<hi rend="sup">r</hi> 
+               <hi>H.</hi> or I, in the point of admiſſion to the Sacrament, more oppoſe or ſide with him. In that of excommnication we both differ from him, and o<g ref="char:EOLhyphen"/>therwiſe I think he is much rather then I, an Eraſtian; though I would not haſtily put any ſuch Character or Brand upon him.</p>
+            <p>
+               <hi>Pag.</hi> 103. He hath theſe words [<hi>That there is a poſſibility (upon what is ſaid) of edification to all intelligent Church-Mem<g ref="char:EOLhyphen"/>bers, though ſcandalous,</hi> (<hi>Covena. Seal.</hi> p. 240.) <hi>or ignorant</hi> (p. 133.) M<hi rend="sup">r</hi> B. <hi>cannot ingenouſly deny.</hi>] Intelligent, ignorant Church Members, will be the wonder of many, unleſſe the termes were better explained, and with ſome diſtinction fur<g ref="char:EOLhyphen"/>ther cleared. I ſuppoſe that by [Intelligent] he underſtands one of the principles and uſe of Reaſon, a man that is no In<g ref="char:EOLhyphen"/>fant, Ideot or diſtracted perſon, as he is wont to explaine him<g ref="char:EOLhyphen"/>ſelf; And that by [Ignorant] he meanes ſuch a one as is not ſeen, but wholly or groſly to ſeek in Chriſtian Myſteries;
+<pb n="6" facs="tcp:117893:6"/>This is the moſt favourable Interpretation that I can give of this ſtrange conjunction of intelligence, and ignorance in the ſame perſon. But when a man is otherwiſe intelligent, and of as acute parts, as M<hi rend="sup">r</hi> 
+               <hi>H.</hi> can reaſonably imagine, but <hi>verſus hoc,</hi> reſpective to Chriſt and Chriſtian Myſteries, knowing nothing; I ſuppoſe there is no more hopes of his edification in his communicating in this Ordinance, then if he were in M<hi rend="sup">r</hi> 
+               <hi>H.</hi> his ſenſe <hi>non intelligent</hi> If an intelligent ra<g ref="char:EOLhyphen"/>tionall man, ſhall undertake the imployment of a Taylor, but wholly ignorant how to ſhape a Garment, ſuch a one that knowes the uſe neither of ſheares no needle; I ſhall no leſſe keep him out of my work, then if he were an Infant, Idiot, or diſtracted; And I ſuppoſe a man of parallel ignorance in Chriſtian Myſteries, ſhould be in like manner dealt with at the Lords Table, according to M<hi rend="sup">r</hi> 
+               <hi>Hs.</hi> own principles, who ſtill yeelds that non-intelligent men ſhould be denied admit<g ref="char:EOLhyphen"/>tance. But M<hi rend="sup">r</hi> 
+               <hi>H.</hi> ſayes, that <hi>I cannot ingenuouſly deny a poſſi<g ref="char:EOLhyphen"/>bility of the edification of ſuch intelligent ignorant perſons by the Sacrament.</hi> Certaine it is that I do deny it, whether inge<g ref="char:EOLhyphen"/>nuouſly or diſingenuouſly, I muſt leave it to others to deter<g ref="char:EOLhyphen"/>mine; you or he, if you pleaſe may conſult what I have ſaid, <hi>p.</hi> 230. of my Treat. of the Sacrament, where you may finde in the Margent theſe words, (groſly ignorant are in an in<g ref="char:EOLhyphen"/>capacity) <hi>viz.</hi> of edification at the Lords Table. And where<g ref="char:EOLhyphen"/>as <hi>p.</hi> 233. is quoted (where he ſaies I confeſſe <hi>a poſſibility of ſuch edification</hi>) I wiſh that the place may be ſeen, and then it will ſoon appeare, that I there ſpeak of edification by the Word, accompanying the Sacrament (as the objection there made, led me to it) at the inſtant of Receiving, and not by the Sacrament it ſelf: And as to that I ſay indeed, I will not determine an abſolute impoſſibility, but withall affirme, little morall probability, or poſſibility; that a man coming in his ignorance for the Lords Supper (as is there objected) ſhould receive ſuch inſtruction, at that inſtant from the word; as to come a knowing man at that time to the participation of it; and if it do happen, I ſay it is to a wonder, if not to a miracle. So that this conceſſion of mine (I ſup<g ref="char:EOLhyphen"/>poſe) the Reader will judge might well have been ſpared,
+<pb n="7" facs="tcp:117893:6"/>and when theſe things are laid together, ſome happily will think that the moſt harſh of his adverſaries (as he ſtyles ſome) have found more candid dealing from his Pen then my ſelf, whom yet he ſeemes willing through a great part of his Treatiſe to repreſent as of his own party.</p>
+            <p>
+               <hi>Pag.</hi> 112. He is pleaſed to bring an Argument againſt me, to prove that ignorant men are in a capacity to edifie by the Sacrament, and ſo to be admitted, which he alſo touches upon, <hi>p.</hi> 35. <hi>Were not thoſe words</hi> (ſaith he) <hi>of our Lord to his Diſciples? This is my Body broken for you, This is the New Teſtament in my Blood which was ſhed for remiſſion of ſinnes, teaching words, informing them of his death and miſtery of our Redemption. Who can deny this? And were not the Diſciples ignorant at that time of his death and miſtery of our Redemption?</hi> Mark. 9.31, 32. Luk. 9 44, 45. <hi>with</hi> Luk. 24.7, 8. Joh. 20.9. <hi>And what then will follow for the ignorant is cleare.</hi> But if the intelligent Reader pleaſe to take a view of thoſe Scriptures, he will ſoon ſee, that they do not ſhew, that the Diſciples were ignorant of his death; at the time of the inſtitution of this Supper, as is affirmed, but of his Re<g ref="char:EOLhyphen"/>ſurrection onely; And not ſimply ignorant or unbelieving in the Doctrine of the Reſurrection (being not of the party of the Sadduces, and well knowing, that in this Chriſt had oppoſed them, <hi>Mat.</hi> 22.23. <hi>Mark.</hi> 12.18.) but of his Re<g ref="char:EOLhyphen"/>ſurrection on the third day. They were ſeen in the Myſteries of Redemption, according to the meaſure of the diſpenſati<g ref="char:EOLhyphen"/>on of Goſpel Myſteries, in the time that they lived, and it is not to be doubted, but that they were better ſeen in it, then thoſe that at the time of Chriſts birth waited for Redem<g ref="char:EOLhyphen"/>ption in <hi>Iſrael, Luk</hi> 2.38. Thoſe did expect a Redem<g ref="char:EOLhyphen"/>ption by a Meſſiah in Gods way; which yet was not explicit<g ref="char:EOLhyphen"/>ly made known: And the twelve might well further be<g ref="char:EOLhyphen"/>lieve it and expect it to be by his death whom they had received as their Meſſiah, though as yet they underſtood not, that he ſhould riſe the third day from the dead, as thoſe Scriptures ſpeak: That more dimme light is therefore no plea for their blindneſſe, that in the cleare day-light ſee nothing.</p>
+            <p>
+               <pb n="8" facs="tcp:117893:7"/>
+               <hi>Pag.</hi> 25. M<hi rend="sup">r</hi> 
+               <hi>H.</hi> in his own defence diſtinguiſhes between <hi>the non inteligent as Infants, ideots, and diſtracted, and igno<g ref="char:EOLhyphen"/>rant ones,</hi> reſpective to their admiſſion to the Lords Table, affirming that it is the ignorant mans duty to communicate: he is under an Obligation to it, whereas it is no duty of thoſe, that are thus non intelligent, they are upon that account diſobliged. And is it not their duty in like ſort not to be ig<g ref="char:EOLhyphen"/>norant? as in duty they ſhould communicate, ſo in duty they ought to be qualified to communicate: They are not to be admitted to one part of their duty, when another part (which is greater and more neceſſary) is ſo groſly and viſibly neglected. Every one that is under Obligation to du<g ref="char:EOLhyphen"/>ty is not immediatly to act according to that duty. An uncleane <hi>Iſraelite</hi> was under an Obligation to receive the Paſſover, and yet not to be admitted in his uncleanneſſe. It muſt be confeſt, that it is an ignorant mans duty (bearing the Name Chriſtian) to receive the Lords Supper, but he is to do his duty and the Paſtor to ſee <hi>quantum in ſe</hi> that he orderly do it, which cannot be done without helping him to ſome precious knowledge. Suppoſe a diſtracted perſon hath brought himſelf into that condition, by his own pride, in<g ref="char:EOLhyphen"/>ordinate paſſion, or otherwiſe, as I have known the caſe viſibly of too many, I ſuppoſe ſuch a one is no leſſe under an Obligation to communicate, then an ignorant man, who by his own negligence is held in blindneſſe: yet I beleeve M<hi rend="sup">r</hi> 
+               <hi>H.</hi> doth not think that in this diſtraction he is to have admiſſion.</p>
+            <p>
+               <hi>Pag.</hi> 100. Bending himſelf eſpecially againſt thoſe that looke upon ſuſpenſion from the Sacrament, as a judiciall Cenſure, he takes notice of ſome other Divines that look upon it onely as a prudentiall, paſtorall duty; which [ſome] he may well take notice to be the farre greater party, eſpecially if he look back to former Ages, and either of both of theſe are his oppoſites, neither of them judging his promiſcuous free admiſſion (as he judges it) to be Ortho<g ref="char:EOLhyphen"/>dox; Both agree that there ſhould be a barre, though there is not ſo full an Argument, whether it be juridically to be laid, as a penalty, or incumbent on the Paſtors care, as the
+<pb n="9" facs="tcp:117893:7"/>prudentiall diſcharge of his duty: I wiſh M<hi rend="sup">r</hi> 
+               <hi>H.</hi> to take in<g ref="char:EOLhyphen"/>to conſideration, how much it is that he yeelds to the latter, and how much cauſe he hath, wholly to come up to them, and not they to him: He confeſſes that a Paſtorall inſpecti<g ref="char:EOLhyphen"/>on into the ſtate of the Flock is needfull, that as other Or<g ref="char:EOLhyphen"/>dinances, ſo, this of the Sacrament is to be ſo adminiſtred as that all may be edified, that actuall Church-Members by the Paſtors care muſt be excluded, that are in an unedi<g ref="char:EOLhyphen"/>fying condition; inſtancing in Infants, ideots, and diſtracted. Now every Paſtor that judges that ignorance obſtructs edi<g ref="char:EOLhyphen"/>fication as well as Infancy, ideotiſme, and diſtraction, is as well to take care for the non-admiſſion of the ignorant as he is for the non-admiſſion of the other, which (as I think) he calls non-intelligent: This is my caſe, and therefore I dare not admit (and as I think I may not according to M<hi rend="sup">r</hi> 
+               <hi>H.</hi> his principles) without ſome cognizance had of their knowledge that offer themſelves to communicate; having ſo largely (as he knowes) made it appeare that ſuch are in no preſent capacity of edification. Some ignorant ones I think are not to be juridically cenſured, yet none that may be juſtly termed ignorant, in Chriſtian Myſtries, can to their benefit (as I conceive) be received; As for the ſcan<g ref="char:EOLhyphen"/>dalous, when M<hi rend="sup">r</hi> 
+               <hi>H.</hi> grants <hi>p.</hi> 114, 115. that <hi>a forbearance of the Lords Supper may be adviſed many times to unprepa<g ref="char:EOLhyphen"/>red unfit perſons when we judge it Chriſtian prudence, con<g ref="char:EOLhyphen"/>ducible through a more ſolemne addreſſe thereunto, towards a further improvement of it to their ſouls, and ſo may the ſame be aſſerted happily as I judge of it,</hi> (ſaith he,) <hi>ex quadam convenientiâ ob majorem reverentiam, as the School<g ref="char:EOLhyphen"/>men ſpeak in ſome other caſes out of the Sacrament,</hi> To which that of his <hi>p.</hi> 34. may be added, <hi>Indeed I conceive a forbearance ſometimes, for all this may be pionſly adviſed, upon the account of prudence, and the ſolemnity of the Ordi<g ref="char:EOLhyphen"/>nance to do more good by it.</hi> When he I ſay yeelds thus much, Divines that have the ſame thoughts, and further think (as they beleeve there is juſt cauſe) that men of a profligate courſe do not onely meanely eſteeme of the Sacrament (as it appeares M<hi rend="sup">r</hi> 
+               <hi>H.</hi> thinks) and bring a hard
+<pb n="10" facs="tcp:117893:8"/>report upon the Church where they reſide, but alſo declare themſelves reſolved againſt the termes or duties required in that Covenant, that this Ordinance ſealeth; may well be<g ref="char:EOLhyphen"/>lieve that this prudence is to ariſe to a neceſſity (for the right diſcharge of their duty) of their preſent non-ad<g ref="char:EOLhyphen"/>miſſion. And for Reaſons that I have given, I ſtill be<g ref="char:EOLhyphen"/>lieve that ſuch have little comfort in coming; nor their Paſtors in admitting, unleſſe they be brought to acknowledge<g ref="char:EOLhyphen"/>ment, and promiſe of amendment; And in ſuch caſes, where there is any ſuch work or willingneſſe profeſſed, this is a further engaging Ordinance, and layes yet a greater tie upon mens ſpirits, though happily it may be juſtly feared, that a through change through grace, is not as yet wrought, What others have ſeen I know not, I believe that I have through Gods mercy ſeen much fruite to my comfort, in this way of engagement of ſuch men, rather then to have waited till I could ſay, I fully believed a through ſanctifying work.</p>
+            <p>There is one aſſertion which M<hi rend="sup">r</hi> 
+               <hi>H.</hi> often reiterates, <hi>The ſame qualifications are required to effectuall prayer, and other parts of Gods worſhip, as to the Sacrament; and as the want hereof puts no barr to the one, no more does it to the other; It is manifeſt that the ſame grace is required of a perſon to be ac<g ref="char:EOLhyphen"/>cepted of God in one part of Gods worſhip, as in another. There is the ſame outward priviledge, and the ſame inward qualifica<g ref="char:EOLhyphen"/>tion held forth alike in the Scripture unto this and other Ordinances. Pag.</hi> 47.102.105. Thoſe Phraſes of [effectuall prayer, acceptation of God] ſeem to be put in for a blind. If it be underſtood of efficacy, to preſent prevalency in prayer, or acceptation of God to ſalvation, then it is not to be doubted, but the grace of faith and repentance are required in our attendance on all Ordinances appointed of God. But will M<hi rend="sup">r</hi> 
+               <hi>H.</hi> ſay, that like qualifications are required in all Or<g ref="char:EOLhyphen"/>dinances for the attainment of any benefit or profit in them, which is the thing in queſtion, he will then meet with many diſſenters: If this be his judgement, then as ſoon as he puts his Child to his Catechiſme, he muſt take him to the Sacra<g ref="char:EOLhyphen"/>ment: And as ſoon as with his approbation any Child comes
+<pb n="11" facs="tcp:117893:8"/>to be chatechiſed; he muſt call on him, or his Parents for him to come alſo for this Sacramentall Communion. Will he affirme that the ſame qualifications are required in one that feeds on Milke, as in him that feeds on ſtrong Meate: I am ſure that the Apoſtle was not of that minde, <hi>Heb.</hi> 5.11, 12, 13, 14. Nor yet our Saviour Chriſt, <hi>Mark.</hi> 4.33. Chriſt did prudentially conſider the qualifications of his Diſciples, and upon account of their deficiency held them off for a time from ſome higher duties, <hi>Mat.</hi> 9.15, 16. <hi>Luk.</hi> 5.37.38. And S<hi rend="sup">t</hi> 
+               <hi>Paul</hi> adviſeth the like prudence, <hi>Rom.</hi> 14.1. If there be no more expected in a Communicant then is of each perſon in their reſpective addreſſes to all other, even the firſt leading Ordinances, and all Ordinances call for equall abilities in eve<g ref="char:EOLhyphen"/>ry one that profits by them, I think moſt Paſtors have hither<g ref="char:EOLhyphen"/>to much erred in their judgement, and more is needfull to be ſpoken then yet hath been ſaid by M<hi rend="sup">r</hi> 
+               <hi>H.</hi> for the rectifying of them: and till that be made known, a further care I think is required in Paſtors, then as yet by him is willingly confeſſed.</p>
+            <p>In the meane time M<hi rend="sup">r</hi> 
+               <hi>Humphrey's</hi> candour is by all to be acknowledged, and much magnified, in giving ſo much re<g ref="char:EOLhyphen"/>verence and reſpect to thoſe whom he judges in this thing to be his greateſt adverſaryes, Which by them indeed is ſo highly deſerved, and eſpecially his tender reſpect had both to ſuch Paſtors that differ from him in opinion; and the people com<g ref="char:EOLhyphen"/>mitted to them, expreſſed in his Poſtſcript <hi>Sect.</hi> 9. Profeſſing himſelf <hi>to reverence the piety, zeal, and paines of many Ministers that prudentially take this occaſion to looke into the ſtate of their Flocks, for their admonition and inſtitution,</hi> And <hi>bewayling as he ſaies the frowardneſſe and offwardneſſe of moſt unto ſo eaſie a ſubmiſſion, utterly diſliking at the bottome of his heart the ſpirits of ſuch Chriſtians, who either out of conſci<g ref="char:EOLhyphen"/>ouſneſſe of their own ignorance, or haughtineſſe of their minds, will be contented to be deprived of the Sacrament, rather then give an account of their Faith to thoſe that aske it in the ſpirit of meekneſſe for their edification.</hi> This I cannot but note for his honour, heartily wiſhing that all that approve of his judgement would be followers of him in
+<pb n="12" facs="tcp:117893:9"/>this likewiſe. Taking to heart his pious advice, that they do not runne their Souls upon their great ſpirituall diſad<g ref="char:EOLhyphen"/>vantage. Thus I have endeavoured, as briefly and plainly as I can to ſatisfie your deſires. Let all due reſpects I pray you, as you have opportunity be tendred to him from</p>
+            <closer>
+               <signed>His and your loving Friend
+THOMAS BLAKE.</signed> 
+               <dateline>
+                  <hi>Tamworth</hi> 
+                  <date>
+                     <hi>July</hi> 15.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
